@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Secure Password Vault
 
 A zero-knowledge password manager with client-side encryption built with FastAPI and React. Your master password never leaves your device, and all encryption happens in your browser.
@@ -254,3 +255,6 @@ This is a demonstration project. For production use, consider additional securit
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+=======
+# Secure-Password-Vault-with-Zero-Knowledge-Encryption-
+>>>>>>> f84e6f79c97560fc2a6435f5a8c45fea8bc4a8d5
